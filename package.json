@@ -1,0 +1,20 @@
+{
+  "name": "lavalink-replit",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bash start.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LewdHuTao",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewdHuTao/Lavalink-Replit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LewdHuTao/Lavalink-Replit/issues"
+  },
+  "homepage": "https://github.com/LewdHuTao/Lavalink-Replit#readme",
+  "description": ""
+}
